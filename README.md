@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of shebaoting/repost.** Not for installation: use [Packagist](https://packagist.org/packages/shebaoting/repost) or the [upstream repository](https://github.com/shebaoting/Repost).
 
-**0** versions archived · Latest: [`2.0.2`](https://github.com/flarchive/shebaoting-repost/tree/archive/v2.0.2) · License: `MIT` · Flarum: `^2.0.0-beta`
+**4** versions archived · Latest: [`2.0.2`](https://github.com/flarchive/shebaoting-repost/tree/archive/v2.0.2) · License: `MIT` · Flarum: `^2.0.0-beta`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.4.0` | 2024-08-30 | `^1.2.0` | [Browse](https://github.com/flarchive/shebaoting-repost/tree/archive/v0.4.0) |
+| `2.0.0` | 2026-06-26 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/shebaoting-repost/tree/archive/v2.0.0) |
+| `2.0.1` | 2026-06-26 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/shebaoting-repost/tree/archive/v2.0.1) |
+| `2.0.2` | 2026-06-26 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/shebaoting-repost/tree/archive/v2.0.2) |
 
 Catalog entry: [packages/shebaoting-repost.json](https://github.com/flarchive/archive-index/blob/main/packages/shebaoting-repost.json)
 
